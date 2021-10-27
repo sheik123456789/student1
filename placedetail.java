@@ -8,8 +8,7 @@ public static void main(String args[])
     String n=s.next();
     System.out.println("Roll number :");
     String n1=s.next();
-    System.out.println("mobile number:");
-    long n2=s.nextLong();
+    
     System.out.println("Personal mail:");
     String n3=s.next();
     System.out.println("Edu mail:");
