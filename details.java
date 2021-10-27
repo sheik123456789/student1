@@ -21,6 +21,8 @@ public static void main(String args[])
      System.out.println ("enter the phn number:");
      
     phn = s.nextLong ();
+    System.out.println("aadhar number:");
+    long aa=s.nextLong();
       
    System.out.println ("enter the email");
       
