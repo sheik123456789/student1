@@ -16,5 +16,5 @@ printf("differance of two number is :%d",d);
       printf("zero cannot be divisible);
   else
       g=a/b;
-   printf("divisible of two number %d",g);
+   printf("divisible of two number is %d",g);
 }
